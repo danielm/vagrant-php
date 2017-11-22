@@ -1,6 +1,6 @@
 <?php
 /*
- * File: src/public/index.php
+ * File: app/public/index.php
  * 
  * By: Daniel Morales <daniminas@gmail.com>
  *

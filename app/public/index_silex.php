@@ -1,6 +1,6 @@
 <?php
 /*
- * File: src/public/index_silex.php
+ * File: app/public/index_silex.php
  * 
  * By: Daniel Morales <daniminas@gmail.com>
  *

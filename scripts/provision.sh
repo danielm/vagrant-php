@@ -13,7 +13,7 @@ apache_config_file="/etc/apache2/envvars"
 apache_vhost_file="/etc/apache2/sites-available/vagrant_vhost.conf"
 
 # This is the public folder of your project, where something like index.php is.
-project_web_root="/vagrant/src/public"
+project_web_root="/vagrant/app/public"
 
 mysql_root_pass="1234567"
 
