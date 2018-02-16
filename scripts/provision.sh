@@ -59,6 +59,9 @@ EOF
   # Disable default "hello world" site, and enable ours
   a2dissite 000-default
   a2ensite vagrant_vhost
+
+  # enable some modules
+  a2enmod rewrite
 }
 
 do_php() {
